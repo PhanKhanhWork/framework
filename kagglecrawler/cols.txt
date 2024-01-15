@@ -1,0 +1,150 @@
+abdulrahmanelbanna\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+aemyjutt\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+akshaydattatraykhare\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+alakaaay\diabetes.csv
+['Age', 'Gender', 'Polyuria', 'Polydipsia', 'sudden weight loss', 'weakness', 'Polyphagia', 'Genital thrush', 'visual blurring', 'Itching', 'Irritability', 'delayed healing', 'partial paresis', 'muscle stiffness', 'Alopecia', 'Obesity', 'class']
+alexteboul\diabetes_012_health_indicators_BRFSS2015.csv
+['Diabetes_012', 'HighBP', 'HighChol', 'CholCheck', 'BMI', 'Smoker', 'Stroke', 'HeartDiseaseorAttack', 'PhysActivity', 'Fruits', 'Veggies', 'HvyAlcoholConsump', 'AnyHealthcare', 'NoDocbcCost', 'GenHlth', 'MentHlth', 'PhysHlth', 'DiffWalk', 'Sex', 'Age', 'Education', 'Income']
+alexteboul\diabetes_binary_5050split_health_indicators_BRFSS2015.csv
+['Diabetes_binary', 'HighBP', 'HighChol', 'CholCheck', 'BMI', 'Smoker', 'Stroke', 'HeartDiseaseorAttack', 'PhysActivity', 'Fruits', 'Veggies', 'HvyAlcoholConsump', 'AnyHealthcare', 'NoDocbcCost', 'GenHlth', 'MentHlth', 'PhysHlth', 'DiffWalk', 'Sex', 'Age', 'Education', 'Income']
+alexteboul\diabetes_binary_health_indicators_BRFSS2015.csv
+['Diabetes_binary', 'HighBP', 'HighChol', 'CholCheck', 'BMI', 'Smoker', 'Stroke', 'HeartDiseaseorAttack', 'PhysActivity', 'Fruits', 'Veggies', 'HvyAlcoholConsump', 'AnyHealthcare', 'NoDocbcCost', 'GenHlth', 'MentHlth', 'PhysHlth', 'DiffWalk', 'Sex', 'Age', 'Education', 'Income']
+alrznorz\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+anakha27\Diabetes-prediction.csv
+['Unnamed: 0', 'gender', 'age', 'hypertension', 'heart_disease', 'smoking_history', 'bmi', 'HbA1c_level', 'blood_glucose_level', 'diabetes']
+andrewmvd\diabetes_data.csv
+['age;gender;polyuria;polydipsia;sudden_weight_loss;weakness;polyphagia;genital_thrush;visual_blurring;itching;irritability;delayed_healing;partial_paresis;muscle_stiffness;alopecia;obesity;class']
+andrewmvd\full_df.csv
+['ID', 'Patient Age', 'Patient Sex', 'Left-Fundus', 'Right-Fundus', 'Left-Diagnostic Keywords', 'Right-Diagnostic Keywords', 'N', 'D', 'G', 'C', 'A', 'H', 'M', 'O', 'filepath', 'labels', 'target', 'filename']
+andrewmvd\heart_failure_clinical_records_dataset.csv
+['age', 'anaemia', 'creatinine_phosphokinase', 'diabetes', 'ejection_fraction', 'high_blood_pressure', 'platelets', 'serum_creatinine', 'serum_sodium', 'sex', 'smoking', 'time', 'DEATH_EVENT']
+antimoni\Metabolic Syndrome.csv
+['seqn', 'Age', 'Sex', 'Marital', 'Income', 'Race', 'WaistCirc', 'BMI', 'Albuminuria', 'UrAlbCr', 'UricAcid', 'BloodGlucose', 'HDL', 'Triglycerides', 'MetabolicSyndrome']
+aravindpcoder\Dataset of Diabetes .csv
+['ID', 'No_Pation', 'Gender', 'AGE', 'Urea', 'Cr', 'HbA1c', 'Chol', 'TG', 'HDL', 'LDL', 'VLDL', 'BMI', 'CLASS']
+arezalo\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'outcome']
+arezalo\pima-indians-diabetes.csv
+['6', '148', '72', '35', '0', '33.6', '0.627', '50', '1']
+arronlacey\DIAB.csv
+['PAT_ID', 'PREGNANCIES', 'GLOCUSE', 'BP', 'SKINTHICKNESS', 'INSULIN', 'BMI', 'DPF', 'AGE', 'DIABET']
+asel98\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+ashishkumarjayswal\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+bhavikjikadara\heart_failure_clinical_records.csv
+['age', 'anaemia', 'creatinine_phosphokinase', 'diabetes', 'ejection_fraction', 'high_blood_pressure', 'platelets', 'serum_creatinine', 'serum_sodium', 'sex', 'smoking', 'time', 'DEATH_EVENT']
+blackbee2016\daily_diabetes.csv
+['lente_matin', 'rapide_matin', 'rapide_midi', 'rapide_soir', 'evenement_nuit', 'glucose_reveil', 'glucose_dejeuner', 'glucose_gouter', 'glucose_diner', 'glucose_soiree', 'glucose_nuit_1', 'glucose_nuit_2', 'heure_reveil', 'heure_dejeuner', 'heure_gouter', 'heure_diner', 'heure_soiree', 'heure_nuit_1', 'heure_nuit_2', 'heure_nuit_3', 'glucose_nuit_3', 'matine_heure', 'matine_glucose', 'heure_gouter_2', 'glucose_gouter_2', 'heure_diner_2', 'glucose_diner_2', 'insuline_rapide_soir_nuit', 'encas_soir', 'date']
+blackbee2016\daily_diabetes_english_cols.csv
+['slow_acting_insulin_morning_intake_dose', 'fast_acting_insulin_morning_intake_dose', 'fast_acting_insulin_lunch_intake_dose', 'fast_acting_insulin_diner_intake_dose', 'night_event', 'morning_glucose_level', 'lunch_glucose_level', 'afternoon_glucose_level', 'diner_glucose_level', 'evening_glucose_level', 'night_1_glucose_level', 'night_2_glucose_level', 'time_of_morning_measure', 'time_of_lunch_measure', 'time_of_afternnon_measure', 'time_of_diner_measure', 'time_of_evening_hour', 'time_of_night_measure_1', 'time_of_night_measure_2', 'time_of_night_measure_3', 'night_3_glucose_level', 'matine_heure', 'matine_glucose', 'heure_gouter_2', 'glucose_gouter_2', 'heure_diner_2', 'glucose_diner_2', 'late_evening_fast_insulin_intake_dose', 'late_evening_snack', 'date']
+brandao\diabetic_data.csv
+['encounter_id', 'patient_nbr', 'race', 'gender', 'age', 'weight', 'admission_type_id', 'discharge_disposition_id', 'admission_source_id', 'time_in_hospital', 'payer_code', 'medical_specialty', 'num_lab_procedures', 'num_procedures', 'num_medications', 'number_outpatient', 'number_emergency', 'number_inpatient', 'diag_1', 'diag_2', 'diag_3', 'number_diagnoses', 'max_glu_serum', 'A1Cresult', 'metformin', 'repaglinide', 'nateglinide', 'chlorpropamide', 'glimepiride', 'acetohexamide', 'glipizide', 'glyburide', 'tolbutamide', 'pioglitazone', 'rosiglitazone', 'acarbose', 'miglitol', 'troglitazone', 'tolazamide', 'examide', 'citoglipton', 'insulin', 'glyburide-metformin', 'glipizide-metformin', 'glimepiride-pioglitazone', 'metformin-rosiglitazone', 'metformin-pioglitazone', 'change', 'diabetesMed', 'readmitted']
+cloudkaustav\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+danushkumarv\diabetes_dataset.csv
+['preg', 'plas', 'pres', 'skin', 'insu', 'mass', 'pedi', 'age', 'class']
+deependraverma13\health care diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+deepikaarikesavan\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+dubradave\hospital_readmissions.csv
+['age', 'time_in_hospital', 'n_lab_procedures', 'n_procedures', 'n_medications', 'n_outpatient', 'n_inpatient', 'n_emergency', 'medical_specialty', 'diag_1', 'diag_2', 'diag_3', 'glucose_test', 'A1Ctest', 'change', 'diabetes_med', 'readmitted']
+ealtintas\diabetes_merged_date-time-sorted-includes-patient-id.csv
+['datetime', 'patient_id', 'code', 'value']
+ealtintas\diabetes_merged_date-time-sorted.csv
+['datetime', 'code', 'value']
+edubrq\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+fathyfathysahlool\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+faysalislam\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+fedesoriano\heart.csv
+['Age', 'Sex', 'ChestPainType', 'RestingBP', 'Cholesterol', 'FastingBS', 'RestingECG', 'MaxHR', 'ExerciseAngina', 'Oldpeak', 'ST_Slope', 'HeartDisease']
+fmendes\diabetes.csv
+['PatientID', 'Pregnancies', 'PlasmaGlucose', 'DiastolicBloodPressure', 'TricepsThickness', 'SerumInsulin', 'BMI', 'DiabetesPedigree', 'Age', 'Diabetic']
+furkannakdagg\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+gargmanas\pima-indians-diabetes.csv
+['6', '148', '72', '35', '0', '33.6', '0.627', '50', '1']
+gauravduttakiit\Diabetes Example Data.csv
+['Blood Sugar Level', 'Diabetes']
+girishvutukuri\Diabetes Binary Classification.csv
+['Number of times pregnant', 'Plasma glucose concentration a 2 hours in an oral glucose tolerance test', 'Diastolic blood pressure (mm Hg)', 'Triceps skin fold thickness (mm)', '2-Hour serum insulin (mu U/ml)', 'Body mass index (weight in kg/(height in m)^2)', 'Diabetes pedigree function', 'Age (years)', 'Class variable (0 or 1)']
+GoogleNewsLab\RegionalInterestByConditionOverTime.csv
+['dma', 'geoCode', '2004+cancer', '2004+cardiovascular', '2004+stroke', '2004+depression', '2004+rehab', '2004+vaccine', '2004+diarrhea', '2004+obesity', '2004+diabetes', '2005+cancer', '2005+cardiovascular', '2005+stroke', '2005+depression', '2005+rehab', '2005+vaccine', '2005+diarrhea', '2005+obesity', '2005+diabetes', '2006+cancer', '2006+cardiovascular', '2006+stroke', '2006+depression', '2006+rehab', '2006+vaccine', '2006+diarrhea', '2006+obesity', '2006+diabetes', '2007+cancer', '2007+cardiovascular', '2007+stroke', '2007+depression', '2007+rehab', '2007+vaccine', '2007+diarrhea', '2007+obesity', '2007+diabetes', '2008+cancer', '2008+cardiovascular', '2008+stroke', '2008+depression', '2008+rehab', '2008+vaccine', '2008+diarrhea', '2008+obesity', '2008+diabetes', '2009+cancer', '2009+cardiovascular', '2009+stroke', '2009+depression', '2009+rehab', '2009+vaccine', '2009+diarrhea', '2009+obesity', '2009+diabetes', '2010+cancer', '2010+cardiovascular', '2010+stroke', '2010+depression', '2010+rehab', '2010+vaccine', '2010+diarrhea', '2010+obesity', '2010+diabetes', '2011+cancer', '2011+cardiovascular', '2011+stroke', '2011+depression', '2011+rehab', '2011+vaccine', '2011+diarrhea', '2011+obesity', '2011+diabetes', '2012+cancer', '2012+cardiovascular', '2012+stroke', '2012+depression', '2012+rehab', '2012+vaccine', '2012+diarrhea', '2012+obesity', '2012+diabetes', '2013+cancer', '2013+cardiovascular', '2013+stroke', '2013+depression', '2013+rehab', '2013+vaccine', '2013+diarrhea', '2013+obesity', '2013+diabetes', '2014+cancer', '2014+cardiovascular', '2014+stroke', '2014+depression', '2014+rehab', '2014+vaccine', '2014+diarrhea', '2014+obesity', '2014+diabetes', '2015+cancer', '2015+cardiovascular', '2015+stroke', '2015+depression', '2015+rehab', '2015+vaccine', '2015+diarrhea', '2015+obesity', '2015+diabetes', '2016+cancer', '2016+cardiovascular', '2016+stroke', '2016+depression', '2016+rehab', '2016+vaccine', '2016+diarrhea', '2016+obesity', '2016+diabetes', '2017+cancer', '2017+cardiovascular', '2017+stroke', '2017+depression', '2017+rehab', '2017+vaccine', '2017+diarrhea', '2017+obesity', '2017+diabetes']
+hashemi221022\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+himanshunakrani\Naive-Bayes-Classification-Data.csv
+['glucose', 'bloodpressure', 'diabetes']
+houcembenmansour\diabetes.csv
+['patient_number', 'cholesterol', 'glucose', 'hdl_chol', 'chol_hdl_ratio', 'age', 'gender', 'height', 'weight', 'bmi', 'systolic_bp', 'diastolic_bp', 'waist', 'hip', 'waist_hip_ratio', 'diabetes']
+iammustafatz\diabetes_prediction_dataset.csv
+['gender', 'age', 'hypertension', 'heart_disease', 'smoking_history', 'bmi', 'HbA1c_level', 'blood_glucose_level', 'diabetes']
+iamsouravbanerjee\cause_of_deaths.csv
+['Country/Territory', 'Code', 'Year', 'Meningitis', "Alzheimer's Disease and Other Dementias", "Parkinson's Disease", 'Nutritional Deficiencies', 'Malaria', 'Drowning', 'Interpersonal Violence', 'Maternal Disorders', 'HIV/AIDS', 'Drug Use Disorders', 'Tuberculosis', 'Cardiovascular Diseases', 'Lower Respiratory Infections', 'Neonatal Disorders', 'Alcohol Use Disorders', 'Self-harm', 'Exposure to Forces of Nature', 'Diarrheal Diseases', 'Environmental Heat and Cold Exposure', 'Neoplasms', 'Conflict and Terrorism', 'Diabetes Mellitus', 'Chronic Kidney Disease', 'Poisonings', 'Protein-Energy Malnutrition', 'Road Injuries', 'Chronic Respiratory Diseases', 'Cirrhosis and Other Chronic Liver Diseases', 'Digestive Diseases', 'Fire, Heat, and Hot Substances', 'Acute Hepatitis']
+imtkaggleteam\diabetes.csv
+['id', 'chol', 'stab.glu', 'hdl', 'ratio', 'glyhb', 'location', 'age', 'gender', 'height', 'weight', 'frame', 'bp.1s', 'bp.1d', 'bp.2s', 'bp.2d', 'waist', 'hip', 'time.ppn']
+ishandutta\diabetes_data_upload.csv
+['Age', 'Gender', 'Polyuria', 'Polydipsia', 'sudden weight loss', 'weakness', 'Polyphagia', 'Genital thrush', 'visual blurring', 'Itching', 'Irritability', 'delayed healing', 'partial paresis', 'muscle stiffness', 'Alopecia', 'Obesity', 'class']
+jamaltariqcheema\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+jillanisofttech\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+jimschacko\diabetes.csv
+['id', 'encounter_id', 'patient_nbr', 'race', 'gender', 'age', 'weight', 'admission_type_id', 'discharge_disposition_id', 'admission_source_id', 'time_in_hospital', 'payer_code', 'medical_specialty', 'num_lab_procedures', 'num_procedures', 'num_medications', 'number_outpatient', 'number_emergency', 'number_inpatient', 'diag_1', 'diag_2', 'diag_3', 'number_diagnoses', 'max_glu_serum', 'A1Cresult', 'metformin', 'repaglinide', 'nateglinide', 'chlorpropamide', 'glimepiride', 'acetohexamide', 'glipizide', 'glyburide', 'tolbutamide', 'pioglitazone', 'rosiglitazone', 'acarbose', 'miglitol', 'troglitazone', 'tolazamide', 'examide', 'citoglipton', 'insulin', 'glyburide.metformin', 'glipizide.metformin', 'glimepiride.pioglitazone', 'metformin.rosiglitazone', 'metformin.pioglitazone', 'change', 'diabetesMed', 'readmitted']
+joebeachcapital\diabetes-vid.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+johndasilva\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+joniarroba\KaggleV2-May-2016.csv
+['PatientId', 'AppointmentID', 'Gender', 'ScheduledDay', 'AppointmentDay', 'Age', 'Neighbourhood', 'Scholarship', 'Hipertension', 'Diabetes', 'Alcoholism', 'Handcap', 'SMS_received', 'No-show']
+julnazz\diabetes_012_health_indicators_BRFSS2021.csv
+['Diabetes_012', 'HighBP', 'HighChol', 'CholCheck', 'BMI', 'Smoker', 'Stroke', 'HeartDiseaseorAttack', 'PhysActivity', 'Fruits', 'Veggies', 'HvyAlcoholConsump', 'AnyHealthcare', 'NoDocbcCost', 'GenHlth', 'MentHlth', 'PhysHlth', 'DiffWalk', 'Sex', 'Age', 'Education', 'Income']
+julnazz\diabetes_binary_5050split_health_indicators_BRFSS2021.csv
+['Diabetes_binary', 'HighBP', 'HighChol', 'CholCheck', 'BMI', 'Smoker', 'Stroke', 'HeartDiseaseorAttack', 'PhysActivity', 'Fruits', 'Veggies', 'HvyAlcoholConsump', 'AnyHealthcare', 'NoDocbcCost', 'GenHlth', 'MentHlth', 'PhysHlth', 'DiffWalk', 'Sex', 'Age', 'Education', 'Income']
+julnazz\diabetes_binary_health_indicators_BRFSS2021.csv
+['Diabetes_binary', 'HighBP', 'HighChol', 'CholCheck', 'BMI', 'Smoker', 'Stroke', 'HeartDiseaseorAttack', 'PhysActivity', 'Fruits', 'Veggies', 'HvyAlcoholConsump', 'AnyHealthcare', 'NoDocbcCost', 'GenHlth', 'MentHlth', 'PhysHlth', 'DiffWalk', 'Sex', 'Age', 'Education', 'Income']
+kamyababedi\visceral_fat.csv
+['number', 'age (years)', 'ethnicity', 'diabetes mellitus', 'mean diastolic bp (mmhg)', 'mean systolic bp (mmhg)', 'central armellini fat (mm)', 'current gestational age', 'pregnancies (number)', 'first fasting glucose (mg/dl)', 'bmi pregestational (kg/m)', 'gestational age at birth', 'type of delivery', 'child birth weight (g)', 'gestational dm']
+kandij\diabetes2.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+mahdiehhajian\health-diabetes-prevalence\data\rows.csv
+['category', 'category_flag', 'group', 'group_flag', 'prevalence', 'prevalence_note', 'prevalence_flag_1', 'prevalence_flag_2', '1988_1994', '1988_1994_flag', '1988_1994_se', '1988_1994_se_flag', '1999_2002', '1999_2002_flag', '1999_2002_se', '1999_2002_se_flag', '2001_2004', '2001_2004_flag', '2001_2004_se', '2001_2004_se_flag', '2003_2006', '2003_2006_flag', '2003_2006_se', '2003_2006_se_flag']
+mahdiehhajian\health-diabetes-prevalence\original\rows.csv
+['Category', 'Category flag', 'Group', 'Group flag', 'Prevalence', 'Prevalence note', 'Prevalence flag 1', 'Prevalence flag 2', '1988-1994', '1988-1994 flag', '1988-1994 SE', '1988-1994 SE flag', '1999-2002', '1999-2002 flag', '1999-2002 SE', '1999-2002 SE flag', '2001-2004', '2001-2004 flag', '2001-2004 SE', '2001-2004 SE flag', '2003-2006', '2003-2006 flag', '2003-2006 SE', '2003-2006 SE flag']
+mahnazarjmand\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+mathchi\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+meeratif\NCD_RisC_Lancet_2016_DM_crude_countries (1).csv
+['Country/Region/World', 'ISO', 'Sex', 'Year', 'Crude diabetes prevalence', 'Lower 95% uncertainty interval', 'Upper 95% uncertainty interval']
+meirnizri\Covid Data.csv
+['USMER', 'MEDICAL_UNIT', 'SEX', 'PATIENT_TYPE', 'DATE_DIED', 'INTUBED', 'PNEUMONIA', 'AGE', 'PREGNANT', 'DIABETES', 'COPD', 'ASTHMA', 'INMSUPR', 'HIPERTENSION', 'OTHER_DISEASE', 'CARDIOVASCULAR', 'OBESITY', 'RENAL_CHRONIC', 'TOBACCO', 'CLASIFFICATION_FINAL', 'ICU']
+mohamedelnahry\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+mohith2409\diabetic_data.csv
+['encounter_id', 'max_glu_serum', 'A1Cresult', 'metformin', 'repaglinide', 'nateglinide', 'chlorpropamide', 'glimepiride', 'acetohexamide', 'glipizide', 'glyburide', 'tolbutamide', 'pioglitazone', 'rosiglitazone', 'acarbose', 'miglitol', 'troglitazone', 'tolazamide', 'examide', 'citoglipton', 'insulin', 'glyburide-metformin', 'glipizide-metformin', 'glimepiride-pioglitazone', 'metformin-rosiglitazone', 'metformin-pioglitazone', 'change', 'diabetesMed', 'readmitted']
+mragpavank\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+nancyalaswad90\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+nanditapore\Healthcare-Diabetes.csv
+['Id', 'Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+pentakrishnakishore\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+piyushborhade\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+pkdarabi\diabetes.csv
+['Age', 'Gender', 'BMI', 'SBP', 'DBP', 'FPG', 'Chol', 'Tri', 'HDL', 'LDL', 'ALT', 'BUN', 'CCR', 'FFPG', 'smoking', 'drinking', 'family_histroy', 'Diabetes']
+pocooo\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+pritsheta\diabetes.csv
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+prosperchuks\diabetes_data.csv
+['Age', 'Sex', 'HighChol', 'CholCheck', 'BMI', 'Smoker', 'HeartDiseaseorAttack', 'PhysActivity', 'Fruits', 'Veggies', 'HvyAlcoholConsump', 'GenHlth', 'MentHlth', 'PhysHlth', 'DiffWalk', 'Stroke', 'HighBP', 'Diabetes']
